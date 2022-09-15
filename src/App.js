@@ -4,7 +4,7 @@ import DadJoke from "./components/dadJoke";
 function App() {
   return (
     <>
-      <ChuckNorris /> 
+      <DadJoke /> 
     </>
   );
 }
